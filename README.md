@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @perikles76
-- 👀 I’m interested in environemntal health.
-- 🌱 I’m currently learning for a job in data science/
+- 👋 Hi, I’m @Peri
+- - 👀 I’m interested in agent based modelling, AI and ML implementations with focus on health.
 - 💞️ I’m looking to collaborate on interesting open projects.
 - 📫 How to reach me: email me at @kontoroupis@gmail.com
 
