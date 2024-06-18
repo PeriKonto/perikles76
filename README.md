@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Peri
+- 👋 Hi, I’m Periklis (Peri) Kontoroupis
 - - 👀 I’m interested in agent based modelling, AI and ML implementations with focus on health.
 - 💞️ I’m looking to collaborate on interesting open projects.
 - 📫 How to reach me: email me at @kontoroupis@gmail.com
